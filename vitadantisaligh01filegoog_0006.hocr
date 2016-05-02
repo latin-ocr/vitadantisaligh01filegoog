@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitadantisaligh01filegoog_0006.png"; bbox 0 0 958 1396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 308 648 339">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 308 648 339">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 308 648 339; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 251 308 337 339; x_wconf 87' lang='lat' dir='ltr'><strong>DAN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 339 309 403 338; x_wconf 93' lang='lat' dir='ltr'><strong>TIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 429 308 648 339; x_wconf 87' lang='lat' dir='ltr'><strong>ALIGHERII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 514 367 543 378">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 514 367 543 378">
+     <span class='ocr_line' id='line_1_2' title="bbox 514 367 543 378; baseline 0 -7"><span class='ocrx_word' id='word_1_4' title='bbox 514 367 543 378; x_wconf 53' lang='lat' dir='ltr'><strong>f-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 407 455 493 469">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 407 455 493 469">
+     <span class='ocr_line' id='line_1_3' title="bbox 407 455 493 469; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 407 455 493 469; x_wconf 67' lang='lat' dir='ltr'>SSSSSSS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 393 671 509 893">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 393 671 509 893">
+     <span class='ocr_line' id='line_1_4' title="bbox 393 671 509 893; baseline 0 503"><span class='ocrx_word' id='word_1_6' title='bbox 393 671 509 893; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
